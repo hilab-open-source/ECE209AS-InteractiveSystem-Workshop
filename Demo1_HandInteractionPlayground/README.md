@@ -35,11 +35,3 @@ The four steps make the progression **sensing → landmarks → interpretation �
 interaction** visible: LANDMARKS shows raw input, DRAW uses one point, PINCH
 turns a distance into a binary state, and OPENNESS uses the distance as a
 continuous value.
-
-Exactly one hand is supported. With no hand, interaction pauses. With two or
-more hands, the app displays **Two hands detected - unsupported** and interaction
-stops. This limitation is intentional for classroom discussion.
-
-Start by reading `app.py`, then `modules/hand_tracking.py`, then inspect one of
-the interaction modules. You do not need to understand every line before
-experimenting with Codex.

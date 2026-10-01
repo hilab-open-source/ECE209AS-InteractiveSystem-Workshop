@@ -1,7 +1,10 @@
 # ECE 209AS Interactive Systems Workshop
 
 Starter code for exploring sensor-based, touchless interactions.
+
+Demo 1: Hand Gesture Interactions
 ![Hand Gesture interface](imgs/hand-gesture-interaction.png)
+Demo 2: Multimodal Input Controlling
 ![Mid-air multimodal music player interface](imgs/multimodal-music-player.png)
 
 ## Starter code
